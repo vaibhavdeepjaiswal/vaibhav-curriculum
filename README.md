@@ -26,7 +26,8 @@ vaibhav-curriculum/
 
 | Batch id | Sessions in this repo |
 |---|---|
-| `IITREICT-DAAI-EN-II-2607` | Lecture 10, Joins II (pre-read). Lecture 11, Subqueries (pre-read and lecture script). |
+| `IITREICT-DAAI-EN-II-2607` | None yet. |
+| `IITREICT-DAAI-EN-III-2610` | Lecture 06, Dictionaries, JSON, Tuples and Sets (pre-read). Lecture 10, Joins II (pre-read). Lecture 11, Subqueries (pre-read and lecture script). |
 
 ## Naming rules
 
