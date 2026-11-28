@@ -1,0 +1,121 @@
+order_id,order_date,product_name,category,units,amount
+8001,2026-11-01,Matte Lipstick,Makeup,1,599
+8002,2026-11-01,Keratin Shampoo,Haircare,3,1350
+8003,2026-11-01,Kajal Pen,Makeup,5,1500
+8004,2026-11-01,Scalp Tonic,Haircare,1,380
+8005,2026-11-02,Kajal Pen,Makeup,11,3300
+8006,2026-11-02,Keratin Shampoo,Haircare,4,1800
+8007,2026-11-02,Lip Gloss,Makeup,3,1200
+8008,2026-11-02,Matte Lipstick,Makeup,1,599
+8009,2026-11-03,Keratin Shampoo,Haircare,1,450
+8010,2026-11-03,Keratin Shampoo,Haircare,1,450
+8011,2026-11-04,Rose Toner,Skincare,1,349
+8012,2026-11-04,Matte Lipstick,Makeup,1,599
+8013,2026-11-04,Matte Lipstick,Makeup,8,4792
+8014,2026-11-04,Hair Mask,Haircare,2,1300
+8015,2026-11-05,Hair Mask,Haircare,1,650
+8016,2026-11-05,Compact Powder,Makeup,4,1800
+8017,2026-11-05,Lip Gloss,Makeup,4,1600
+8018,2026-11-05,Hair Mask,Haircare,1,650
+8019,2026-11-06,Argan Hair Oil,Haircare,5,2750
+8020,2026-11-06,Argan Hair Oil,Haircare,1,550
+8021,2026-11-06,Sun Shield SPF 50,Skincare,1,499
+8022,2026-11-06,Kajal Pen,Makeup,1,300
+8023,2026-11-07,Compact Powder,Makeup,1,450
+8024,2026-11-07,Night Cream,Skincare,1,899
+8025,2026-11-07,Night Cream,Skincare,1,899
+8026,2026-11-07,Keratin Shampoo,Haircare,1,450
+8027,2026-11-08,Glow Serum,Skincare,6,4194
+8028,2026-11-08,Argan Hair Oil,Haircare,1,550
+8029,2026-11-08,Lip Gloss,Makeup,4,1600
+8030,2026-11-09,Scalp Tonic,Haircare,1,380
+8031,2026-11-09,Argan Hair Oil,Haircare,4,2200
+8032,2026-11-09,Sun Shield SPF 50,Skincare,3,1497
+8033,2026-11-10,Kajal Pen,Makeup,3,900
+8034,2026-11-10,Matte Lipstick,Makeup,1,599
+8035,2026-11-10,Argan Hair Oil,Haircare,1,550
+8036,2026-11-10,Keratin Shampoo,Haircare,1,450
+8037,2026-11-11,Rose Toner,Skincare,5,1745
+8038,2026-11-11,Argan Hair Oil,Haircare,1,550
+8039,2026-11-11,Sun Shield SPF 50,Skincare,1,499
+8040,2026-11-11,Keratin Shampoo,Haircare,3,1350
+8041,2026-11-11,Kajal Pen,Makeup,1,300
+8042,2026-11-11,Keratin Shampoo,Haircare,1,450
+8043,2026-11-11,Sun Shield SPF 50,Skincare,2,998
+8044,2026-11-11,Night Cream,Skincare,1,899
+8045,2026-11-11,Scalp Tonic,Haircare,1,380
+8046,2026-11-11,Kajal Pen,Makeup,2,600
+8047,2026-11-11,Rose Toner,Skincare,5,1745
+8048,2026-11-11,Hair Mask,Haircare,1,650
+8049,2026-11-12,Night Cream,Skincare,2,1798
+8050,2026-11-12,Rose Toner,Skincare,5,1745
+8051,2026-11-12,Rose Toner,Skincare,2,698
+8052,2026-11-12,Argan Hair Oil,Haircare,1,550
+8053,2026-11-13,Scalp Tonic,Haircare,1,380
+8054,2026-11-13,Scalp Tonic,Haircare,3,1140
+8055,2026-11-13,Compact Powder,Makeup,3,1350
+8056,2026-11-14,Rose Toner,Skincare,6,2094
+8057,2026-11-14,Matte Lipstick,Makeup,1,599
+8058,2026-11-14,Compact Powder,Makeup,1,450
+8059,2026-11-15,Night Cream,Skincare,1,899
+8060,2026-11-15,Lip Gloss,Makeup,1,400
+8061,2026-11-15,Glow Serum,Skincare,1,699
+8062,2026-11-15,Night Cream,Skincare,2,1798
+8063,2026-11-16,Kajal Pen,Makeup,4,1200
+8064,2026-11-16,Rose Toner,Skincare,2,698
+8065,2026-11-16,Glow Serum,Skincare,6,4194
+8066,2026-11-16,Compact Powder,Makeup,1,450
+8067,2026-11-16,Kajal Pen,Makeup,3,900
+8068,2026-11-16,Lip Gloss,Makeup,3,1200
+8069,2026-11-17,Compact Powder,Makeup,2,900
+8070,2026-11-17,Rose Toner,Skincare,2,698
+8071,2026-11-17,Compact Powder,Makeup,1,450
+8072,2026-11-18,Scalp Tonic,Haircare,2,760
+8073,2026-11-18,Hair Mask,Haircare,1,650
+8074,2026-11-18,Sun Shield SPF 50,Skincare,11,5489
+8075,2026-11-18,Hair Mask,Haircare,1,650
+8076,2026-11-19,Sun Shield SPF 50,Skincare,3,1497
+8077,2026-11-19,Sun Shield SPF 50,Skincare,4,1996
+8078,2026-11-20,Argan Hair Oil,Haircare,2,1100
+8079,2026-11-20,Keratin Shampoo,Haircare,1,450
+8080,2026-11-20,Lip Gloss,Makeup,2,800
+8081,2026-11-21,Glow Serum,Skincare,1,699
+8082,2026-11-21,Sun Shield SPF 50,Skincare,3,1497
+8083,2026-11-21,Sun Shield SPF 50,Skincare,6,2994
+8084,2026-11-21,Lip Gloss,Makeup,1,400
+8085,2026-11-22,Night Cream,Skincare,1,899
+8086,2026-11-22,Compact Powder,Makeup,1,450
+8087,2026-11-23,Night Cream,Skincare,6,5394
+8088,2026-11-23,Hair Mask,Haircare,1,650
+8089,2026-11-23,Rose Toner,Skincare,1,349
+8090,2026-11-24,Glow Serum,Skincare,4,2796
+8091,2026-11-24,Night Cream,Skincare,2,1798
+8092,2026-11-24,Compact Powder,Makeup,1,450
+8093,2026-11-24,Keratin Shampoo,Haircare,4,1800
+8094,2026-11-24,Matte Lipstick,Makeup,1,599
+8095,2026-11-24,Kajal Pen,Makeup,5,1500
+8096,2026-11-24,Sun Shield SPF 50,Skincare,6,2994
+8097,2026-11-25,Hair Mask,Haircare,1,650
+8098,2026-11-25,Hair Mask,Haircare,1,650
+8099,2026-11-26,Scalp Tonic,Haircare,1,380
+8100,2026-11-26,Scalp Tonic,Haircare,2,760
+8101,2026-11-26,Scalp Tonic,Haircare,1,380
+8102,2026-11-26,Glow Serum,Skincare,1,699
+8103,2026-11-27,Matte Lipstick,Makeup,6,3594
+8104,2026-11-27,Glow Serum,Skincare,1,699
+8105,2026-11-27,Compact Powder,Makeup,5,2250
+8106,2026-11-27,Lip Gloss,Makeup,8,3200
+8107,2026-11-28,Rose Toner,Skincare,1,349
+8108,2026-11-28,Lip Gloss,Makeup,1,400
+8109,2026-11-28,Scalp Tonic,Haircare,2,760
+8110,2026-11-28,Kajal Pen,Makeup,5,1500
+8111,2026-11-29,Argan Hair Oil,Haircare,1,550
+8112,2026-11-29,Matte Lipstick,Makeup,9,5391
+8113,2026-11-29,Glow Serum,Skincare,2,1398
+8114,2026-11-29,Argan Hair Oil,Haircare,3,1650
+8115,2026-11-29,Lip Gloss,Makeup,3,1200
+8116,2026-11-30,Matte Lipstick,Makeup,1,599
+8117,2026-11-30,Hair Mask,Haircare,2,1300
+8118,2026-11-30,Glow Serum,Skincare,4,2796
+8119,2026-11-30,Glow Serum,Skincare,4,2796
+8120,2026-11-30,Night Cream,Skincare,3,2697
